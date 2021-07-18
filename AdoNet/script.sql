@@ -1,0 +1,24 @@
+-- CRIA O BANCO DE DADOS
+USE master
+CREATE DATABASE PetShop
+GO
+
+-- CRIA A TABELA
+CREATE TABLE [dbo].[PetShopName]
+(
+    [Id] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY, 
+    [Name] NVARCHAR(50) NOT NULL,
+    [PhoneNumber] NVARCHAR(14) NOT NULL
+);
+GO
+
+-- INSERE OS VALORES
+INSERT INTO [dbo].[PetshopName]
+( 
+ [Id], [Name], [PhoneNumber]
+)
+VALUES
+( 
+ NEWID(), 'Test', '123456789'
+)
+GO

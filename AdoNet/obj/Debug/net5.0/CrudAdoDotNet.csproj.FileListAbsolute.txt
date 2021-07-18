@@ -1,0 +1,105 @@
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\bin\Debug\net5.0\appsettings.json
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\bin\Debug\net5.0\CrudAdoDotNet.exe
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\bin\Debug\net5.0\CrudAdoDotNet.deps.json
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\bin\Debug\net5.0\CrudAdoDotNet.runtimeconfig.json
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\bin\Debug\net5.0\CrudAdoDotNet.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\bin\Debug\net5.0\CrudAdoDotNet.dll
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\bin\Debug\net5.0\ref\CrudAdoDotNet.dll
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\bin\Debug\net5.0\CrudAdoDotNet.pdb
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\obj\Debug\net5.0\CrudAdoDotNet.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\obj\Debug\net5.0\CrudAdoDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\obj\Debug\net5.0\CrudAdoDotNet.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\obj\Debug\net5.0\CrudAdoDotNet.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\obj\Debug\net5.0\CrudAdoDotNet.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\obj\Debug\net5.0\CrudAdoDotNet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\obj\Debug\net5.0\CrudAdoDotNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\obj\Debug\net5.0\staticwebassets\CrudAdoDotNet.StaticWebAssets.Manifest.cache
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\obj\Debug\net5.0\staticwebassets\CrudAdoDotNet.StaticWebAssets.xml
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\obj\Debug\net5.0\scopedcss\bundle\CrudAdoDotNet.styles.css
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\obj\Debug\net5.0\CrudAdoDotNet.RazorTargetAssemblyInfo.cache
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\obj\Debug\net5.0\CrudAdoDotNet.csproj.CopyComplete
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\obj\Debug\net5.0\CrudAdoDotNet.dll
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\obj\Debug\net5.0\ref\CrudAdoDotNet.dll
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\obj\Debug\net5.0\CrudAdoDotNet.pdb
+C:\Users\lucas\Desktop\Crud AdoNet\CrudAdoDotNet\obj\Debug\net5.0\CrudAdoDotNet.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\bin\Debug\net5.0\appsettings.json
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\bin\Debug\net5.0\CrudAdoDotNet.exe
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\bin\Debug\net5.0\CrudAdoDotNet.deps.json
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\bin\Debug\net5.0\CrudAdoDotNet.runtimeconfig.json
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\bin\Debug\net5.0\CrudAdoDotNet.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\bin\Debug\net5.0\CrudAdoDotNet.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\bin\Debug\net5.0\ref\CrudAdoDotNet.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\bin\Debug\net5.0\CrudAdoDotNet.pdb
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\obj\Debug\net5.0\CrudAdoDotNet.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\obj\Debug\net5.0\CrudAdoDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\obj\Debug\net5.0\CrudAdoDotNet.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\obj\Debug\net5.0\CrudAdoDotNet.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\obj\Debug\net5.0\CrudAdoDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\obj\Debug\net5.0\CrudAdoDotNet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\obj\Debug\net5.0\CrudAdoDotNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\obj\Debug\net5.0\staticwebassets\CrudAdoDotNet.StaticWebAssets.Manifest.cache
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\obj\Debug\net5.0\staticwebassets\CrudAdoDotNet.StaticWebAssets.xml
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\obj\Debug\net5.0\scopedcss\bundle\CrudAdoDotNet.styles.css
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\obj\Debug\net5.0\CrudAdoDotNet.RazorTargetAssemblyInfo.cache
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\obj\Debug\net5.0\CrudAdoDotNet.csproj.CopyComplete
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\obj\Debug\net5.0\CrudAdoDotNet.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\obj\Debug\net5.0\ref\CrudAdoDotNet.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\obj\Debug\net5.0\CrudAdoDotNet.pdb
+C:\Users\Lucas\Desktop\Exercises\Adonet\CrudAdoDotNet\obj\Debug\net5.0\CrudAdoDotNet.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\bin\Debug\net5.0\appsettings.json
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\bin\Debug\net5.0\CrudAdoDotNet.exe
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\bin\Debug\net5.0\CrudAdoDotNet.deps.json
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\bin\Debug\net5.0\CrudAdoDotNet.runtimeconfig.json
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\bin\Debug\net5.0\CrudAdoDotNet.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\bin\Debug\net5.0\CrudAdoDotNet.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\bin\Debug\net5.0\ref\CrudAdoDotNet.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\bin\Debug\net5.0\CrudAdoDotNet.pdb
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\obj\Debug\net5.0\CrudAdoDotNet.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\obj\Debug\net5.0\CrudAdoDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\obj\Debug\net5.0\CrudAdoDotNet.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\obj\Debug\net5.0\CrudAdoDotNet.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\obj\Debug\net5.0\CrudAdoDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\obj\Debug\net5.0\CrudAdoDotNet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\obj\Debug\net5.0\CrudAdoDotNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\obj\Debug\net5.0\staticwebassets\CrudAdoDotNet.StaticWebAssets.Manifest.cache
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\obj\Debug\net5.0\staticwebassets\CrudAdoDotNet.StaticWebAssets.xml
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\obj\Debug\net5.0\scopedcss\bundle\CrudAdoDotNet.styles.css
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\obj\Debug\net5.0\CrudAdoDotNet.RazorTargetAssemblyInfo.cache
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\obj\Debug\net5.0\CrudAdoDotNet.csproj.CopyComplete
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\obj\Debug\net5.0\CrudAdoDotNet.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\obj\Debug\net5.0\ref\CrudAdoDotNet.dll
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\obj\Debug\net5.0\CrudAdoDotNet.pdb
+C:\Users\Lucas\Desktop\Exercises\Adonet\AdoNet\obj\Debug\net5.0\CrudAdoDotNet.genruntimeconfig.cache
